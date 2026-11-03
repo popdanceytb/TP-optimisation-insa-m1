@@ -1,0 +1,7 @@
+gurobipy
+numpy
+pandas
+matplotlib
+openpyxl
+xlrd
+pytest

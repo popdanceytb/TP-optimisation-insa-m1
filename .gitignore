@@ -1,0 +1,18 @@
+# Environnement Python
+.venv/
+venv/
+.env
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Journaux de résolution
+*.log
+
+# Configuration des éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
